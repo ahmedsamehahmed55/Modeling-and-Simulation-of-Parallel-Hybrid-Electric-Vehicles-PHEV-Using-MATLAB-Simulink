@@ -53,4 +53,4 @@ The developed simulation framework enables:
 
 The complete technical report, including modeling methodology, control logic, and simulation results, can be found here:
 
-📄 **Full Project Report(simulink/Project Report.pdf)**
+📄 **[Full Project Report](simulink/Project Report.pdf)**
